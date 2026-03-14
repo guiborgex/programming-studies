@@ -38,4 +38,4 @@ O objetivo deste repositório é organizar meus estudos, documentar minha evolu�
 
 ## Certificado
 
-O certificado de conclusão deste curso será adicionado aqui como parte desta jornada de aprendizado.
+- [Certificado de conclusão - Algoritmos e Lógica de Programação](./certificados/certificado-udemy-logica-programacao.pdf)
