@@ -1,8 +1,8 @@
-# Estudos de Programação
+# Programming Studies
 
-Este repositório centraliza meus estudos de programação e os exercícios práticos desenvolvidos durante minha jornada de aprendizado em lógica de programação e fundamentos de software.
+Este repositório funciona como um menu central dos meus estudos de programação.
 
-Aqui estão organizados os repositórios com atividades feitas em diferentes linguagens, abordando resolução de problemas, entrada e saída de dados, estruturas condicionais, estruturas de repetição, vetores, matrizes e operações matemáticas.
+Aqui estão organizados os repositórios que reúnem exercícios, práticas e atividades desenvolvidas durante minha jornada de aprendizado em lógica de programação e fundamentos de desenvolvimento.
 
 ## Repositórios por linguagem
 
@@ -16,17 +16,16 @@ Aqui estão organizados os repositórios com atividades feitas em diferentes lin
 
 - Lógica de programação
 - Entrada e saída de dados
-- Variáveis e tipos de dados
 - Estruturas condicionais
 - Estruturas de repetição
-- Vetores
-- Matrizes
+- Vetores e matrizes
 - Operações matemáticas
 - Resolução de problemas
+- Fundamentos de orientação a objetos
 
-## Referência do curso
+## Referência de estudo
 
-Parte desses estudos foi desenvolvida durante o curso:
+Parte desses estudos foi desenvolvida com base no curso:
 
 **Algoritmos e Lógica de Programação - O Curso COMPLETO**  
 Instrutor: **Nélio Alves**  
@@ -34,8 +33,8 @@ Plataforma: **Udemy**
 
 ## Objetivo
 
-O objetivo deste repositório é organizar meus estudos, documentar minha evolução e apresentar minha base em programação como estudante de Engenharia de Software.
+O objetivo deste repositório é centralizar meus estudos, documentar minha evolução e facilitar a navegação entre os repositórios organizados por linguagem.
 
 ## Certificado
 
-- [Certificado de conclusão - Algoritmos e Lógica de Programação](./certificados/certificado-udemy-logica-programacao.pdf)
+- [Certificado de conclusão do curso](./certificados/certificado-udemy-logica-programacao.pdf)
